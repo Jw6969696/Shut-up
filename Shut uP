@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Shut Up</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <header class="bg-blue-600 text-white p-4">
+        <h1 class="text-3xl">How to Shut Up</h1>
+        <nav class="mt-2">
+            <a href="#home" class="text-white mr-4">Home</a>
+            <a href="#why-listening" class="text-white mr-4">Why Listening is Important</a>
+            <a href="#techniques" class="text-white mr-4">Techniques to Stay Silent</a>
+            <a href="#resources" class="text-white">Resources</a>
+        </nav>
+    </header>
+    <main class="p-4">
+        <section id="home" class="my-8">
+            <h2 class="text-2xl font-bold">Welcome to the Art of Effective Listening</h2>
+            <p class="mt-2">Discover the power of listening and learn why sometimes it's best to stay silent.</p>
+        </section>
+        <section id="why-listening" class="my-8">
+            <h2 class="text-2xl font-bold">Why Listening is Important</h2>
+            <ul class="list-disc list-inside mt-2">
+                <li>Builds better relationships</li>
+                <li>Helps you understand others</li>
+                <li>Reduces misunderstandings</li>
+                <li>Shows respect and empathy</li>
+            </ul>
+        </section>
+        <section id="techniques" class="my-8">
+            <h2 class="text-2xl font-bold">Techniques to Stay Silent</h2>
+            <ul class="list-disc list-inside mt-2">
+                <li>Practice mindfulness</li>
+                <li>Count to ten before speaking</li>
+                <li>Focus on the speaker's words</li>
+                <li>Avoid interrupting</li>
+                <li>Use body language to show you're listening</li>
+            </ul>
+        </section>
+        <section id="resources" class="my-8">
+            <h2 class="text-2xl font-bold">Resources</h2>
+            <ul class="list-disc list-inside mt-2">
+                <li><a href="https://www.example.com/article1" class="text-blue-600">Effective Listening Techniques</a></li>
+                <li><a href="https://www.example.com/book1" class="text-blue-600">Book: The Art of Listening</a></li>
+                <li><a href="https://www.example.com/video1" class="text-blue-600">Video: Listening Skills</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer class="bg-blue-600 text-white p-4 text-center">
+        &copy; 2024 How to Shut Up
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
